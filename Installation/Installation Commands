@@ -1,0 +1,13 @@
+sudo dnf update -y
+sudo dnf install -y \
+  gcc gcc-c++ \
+  python3 python3-devel \
+  git \
+  cmake \
+  make \
+  wget \
+  pkgconfig \
+  sqlite sqlite-devel \
+  libxml2 libxml2-devel \
+  boost-devel \
+  openssl-devel
