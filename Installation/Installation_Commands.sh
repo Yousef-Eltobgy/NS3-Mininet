@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Install required dependencies:
 sudo dnf update -y
 sudo dnf install -y \
@@ -36,7 +38,7 @@ git checkout ns-3.42
 # Test ns-3 installation:
 ./ns3 run hello-simulator
   # Expected output: Hello Simulator
-  # ✅ ns-3 is installed correctly.
+  # this means ns-3 is installed correctly.
 
 
 # Run a real simulation example
@@ -69,7 +71,7 @@ make
 
 # Launch NetAnim
 ./NetAnim
-  # A GUI window should open 🎉
+  # A GUI window should open.
 
 
 # How NetAnim works with ns-3
