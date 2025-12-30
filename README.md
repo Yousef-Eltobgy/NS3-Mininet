@@ -1,6 +1,6 @@
 # NS3
 
-# tio run the code
-cd ns-3-dev/
-./ns3 build
-./ns3 run "dc_simulation_final -
+# to run the code
+cd ns-3-dev/  \n
+./ns3 build  \n
+./ns3 run "dc_simulation_final -  \n
