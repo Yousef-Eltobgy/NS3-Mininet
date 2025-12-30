@@ -1,0 +1,7 @@
+time,linkId,fault_type,severity
+6.000000,61,link_failure,1.0
+10.500000,6,packet_loss,0.050000
+12.000000,41,congestion,1.0
+12.000000,72,congestion,1.0
+15.000000,55,delay_spike,0.100000
+19.500000,11,bandwidth_degradation,0.300000
