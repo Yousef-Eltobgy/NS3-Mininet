@@ -141,7 +141,7 @@ sudo mn --test pingall
 
 
 #=======================================================================================
-...
+'
 Final Notes
 This installation is fully compatible with Mininet + Open vSwitch
 Suitable for:
@@ -149,21 +149,7 @@ Suitable for:
 - Link-down and congestion fault injection
 - Traffic capture and dataset generation
 - Recommended for research and thesis work (e.g., SOANN fault detection models)
-...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+'
 
 
 
