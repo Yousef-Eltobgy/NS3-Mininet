@@ -14,7 +14,7 @@ import os
 
 # ================= CONFIG =================
 TOTAL_SAMPLES = 15000
-CSV_FILE = "dc_64_dataset.csv"
+CSV_FILE = "dc_15k_dataset.csv"
 
 BASE_BW = 100      # Mbps
 MAX_DELAY = 30     # ms
