@@ -39,7 +39,7 @@ Before installation, ensure your system meets the following requirements:
 - cd ns-3-dev/
 - ./ns3 build
 - ./ns3 run "scratch/script"
-- # Or run with specific parameters
+- #Or run with specific parameters
 - ./ns3 run "scratch/data_center_sim --cores=2 --aggs=4 --tors=8 --servers=8 --time=5 --output=dc_results.csv"
 
 ---
