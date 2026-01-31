@@ -35,7 +35,8 @@ Before installation, ensure your system meets the following requirements:
 
 ## 🔹NS3
 
-# to run the code
+to run the code
+
 - cd ns-3-dev/
 - ./ns3 build
 - ./ns3 run "scratch/script"
@@ -45,7 +46,9 @@ Before installation, ensure your system meets the following requirements:
 ---
 
 ## 🔹Mininet
-# to run the code
+
+to run the code
+
 - cd mininet/
 - #Before running any Mininet script:
 - sudo mn -c
