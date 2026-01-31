@@ -35,7 +35,7 @@ Before installation, ensure your system meets the following requirements:
 
 ## 🔹NS3
 
-to run the code
+To run the code:
 
 - cd ns-3-dev/
 - ./ns3 build
@@ -47,7 +47,7 @@ to run the code
 
 ## 🔹Mininet
 
-to run the code
+To run the code:
 
 - cd mininet/
 - #Before running any Mininet script:
@@ -62,5 +62,4 @@ to run the code
 - Mininet Official GitHub Repository
 
 
-```bash
-sudo apt update && sudo apt upgrade -y
+
